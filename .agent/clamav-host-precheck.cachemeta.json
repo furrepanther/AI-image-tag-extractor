@@ -1,0 +1,10 @@
+{
+  "tool": "clamav_host_precheck",
+  "repo_path": "/mnt/f/.repo-quarantine/AI-image-tag-extractor__20260228T195643Z",
+  "repo_head": "bda8a2bd1da8c14c4a2c5f770cd7d014521ef257",
+  "gate_phase": "3",
+  "clamav_required": "1",
+  "clamav_script_sha": "21adda48e2c13176fe7c5d0f703667c37ee9622799bf4443f98a07e2c8fab26d",
+  "report_path": "/mnt/f/.repo-quarantine/AI-image-tag-extractor__20260228T195643Z/.agent/clamav-host-precheck.json",
+  "generated_at_epoch": 1772308626
+}
